@@ -1,4 +1,6 @@
-## Project #3:
+Play [Vanilla JS Blackjack](http://nk1tz.com/vanilla-js-blackjack/)
+This project was designed as a workshop for the DecodeMTL web development Bootcamp.
+
 ## Vanilla BlackJack
 
 ---
