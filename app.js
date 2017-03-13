@@ -122,7 +122,7 @@ function hitMe(target) {
       playerScoreNode.textContent = playerScore;
       if (playerScore > 21) {
         roundLost = true;
-        announcementNode.textContent = "You broke. Pay up bitch."
+        announcementNode.textContent = "You broke. Pay up."
       }
     }
 
